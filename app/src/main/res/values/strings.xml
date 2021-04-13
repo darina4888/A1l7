@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">A1l7</string>
+    <string name="title1">Зелёный лес</string>
+    <string name="title2">Гора</string>
+    <string name="title3">Водопад</string>
+    <string name="title4">Небо</string>
+    <string name="title5">Туман</string>
+    <string name="description1">Сказочный зелёный лес</string>
+    <string name="description2">Одинокая гора</string>
+    <string name="description3">Бурный водопад в лесу</string>
+    <string name="description4">Красивое сумрачное небо</string>
+    <string name="description5">Мистический туман</string>
+    <string name="date1">24.02.2021</string>
+    <string name="date2">04.03.2021</string>
+    <string name="date3">12.01.2021</string>
+    <string name="date4">20.01.2021</string>
+    <string name="date5">24.12.2020</string>
 </resources>
